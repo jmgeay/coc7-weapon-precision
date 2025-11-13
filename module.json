@@ -4,13 +4,13 @@
   "title": "CoC7 Weapon Precision",
   "description": "Ajoute un champ de précision aux armes pour modifier les jets d'attaque.",
   "version": "1.0.0",
-  "author": "Jean-Marc",
+  "author": "Markjan",
   "minimumCoreVersion": "13",
   "compatibleCoreVersion": "13",
   "system": ["coc7"],
   "scripts": ["scripts/precision.js"],
   "styles": ["styles/style.css"],
-  "url": "https://github.com/tonpseudo/coc7-weapon-precision",
-  "manifest": "https://tonpseudo.github.io/coc7-weapon-precision/module.json",
-  "download": "https://tonpseudo.github.io/coc7-weapon-precision/module.json"
+  "url": "https://github.com/jmgeay/coc7-weapon-precision",
+  "manifest": "https://jmgeay.github.io/coc7-weapon-precision/module.json",
+  "download": "https://jmgeay.github.io/coc7-weapon-precision/module.json"
 }
